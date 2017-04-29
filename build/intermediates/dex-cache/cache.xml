@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\baehy\Downloads\Strawberry-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\baehy\Downloads\Strawberry-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7fd117b023bc075ebc1298bb9b0522290b301f66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\baehy\Downloads\Strawberry-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="166e29d13ee33f2b1fb3109014cbcdac673237a2">
+        <dex dex="C:\Users\baehy\Downloads\Strawberry-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b6c17213dd4e854176c81f8d7d71a451388c8bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\baehy\Downloads\Strawberry-master\app\libs\jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\Users\baehy\Downloads\Strawberry-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.2_00fd6fc27eafac5f5da34d7d4b95a4a5bda62352\classes.dex" />
+    </item>
+
+</items>

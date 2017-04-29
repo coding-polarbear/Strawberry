@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#2b2b2b">
+<LinearLayout
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+
+        android:src="@drawable/people_icon"
+        android:layout_margin="5dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/ePhoto"/>
+
+    <LinearLayout
+        android:paddingLeft="10dip"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="userName"
+            android:id="@+id/eName"
+            android:textSize="23sp"
+            android:gravity="center_vertical"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/eMessage"
+            android:gravity="center_vertical"
+            android:text="상태메세지"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="ㅋㅋ"
+        android:textColor="@color/white"
+        android:id="@+id/times"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_gravity="right"
+        android:background="@color/white"
+        android:layout_width="290dp"
+        android:layout_height="1dp" />
+</LinearLayout>

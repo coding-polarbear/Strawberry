@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_marginBottom="200dp"
+        android:background="@color/white"
+        android:layout_width="300dp"
+        android:layout_height="60dp">
+        <TextView
+            android:textSize="23sp"
+            android:gravity="center"
+            android:text="뉴스피드가 있습니다."
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+
+</LinearLayout>

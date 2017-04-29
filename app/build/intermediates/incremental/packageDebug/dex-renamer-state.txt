@@ -1,0 +1,7 @@
+#Sun Apr 30 00:28:32 KST 2017
+base.0=C\:\\Users\\baehy\\Downloads\\Strawberry-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b6c17213dd4e854176c81f8d7d71a451388c8bc0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\baehy\\Downloads\\Strawberry-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7fd117b023bc075ebc1298bb9b0522290b301f66\\classes.dex
+base.1=C\:\\Users\\baehy\\Downloads\\Strawberry-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7fd117b023bc075ebc1298bb9b0522290b301f66
+file.0=C\:\\Users\\baehy\\Downloads\\Strawberry-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b6c17213dd4e854176c81f8d7d71a451388c8bc0\\classes.dex

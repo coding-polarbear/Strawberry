@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#2b2b2b"
+    android:gravity="center_vertical">
+    <LinearLayout
+        android:background="#2b2b2b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chatLayout"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:id="@+id/ePhoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/people_icon" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="73dp">
+            <TextView
+                android:id="@+id/eName"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="8pt"
+                android:text="name"
+                android:paddingLeft="20dp"
+                android:textColor="@color/white" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12pt"
+                android:layout_below="@+id/eName"
+                android:text="Message"
+                android:id="@+id/times"
+                android:textColor="@color/white"
+                android:paddingLeft="20dp"
+                android:layout_above="@+id/textView5" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="290dp"
+                android:layout_height="1dp"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="right"
+                android:background="@color/white"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

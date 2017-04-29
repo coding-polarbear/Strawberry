@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "603543068632",
+    "firebase_url": "https://login-test-82bb8.firebaseio.com",
+    "project_id": "login-test-82bb8",
+    "storage_bucket": "login-test-82bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603543068632:android:01648e7478c67814",
+        "android_client_info": {
+          "package_name": "com.example.purplebeen.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603543068632-558r1jjgbgbrhm3a4n4ja9v08oucj6om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.purplebeen.firebaseauthentication",
+            "certificate_hash": "A94D49A214AF0E4E8930E52A75BABE328223AACB"
+          }
+        },
+        {
+          "client_id": "603543068632-itlc5l7600cn46f3i55sski1mjq8mfin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1efynnEbnK0UXRzxfmf7do_y55sKvUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603543068632-itlc5l7600cn46f3i55sski1mjq8mfin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603543068632:android:0a2200f2f48dbd47",
+        "android_client_info": {
+          "package_name": "com.example.purplebeen.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603543068632-nat02kdcoai1pi0epqtjj62djq05ngm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.purplebeen.firebasetest",
+            "certificate_hash": "A94D49A214AF0E4E8930E52A75BABE328223AACB"
+          }
+        },
+        {
+          "client_id": "603543068632-itlc5l7600cn46f3i55sski1mjq8mfin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1efynnEbnK0UXRzxfmf7do_y55sKvUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603543068632-itlc5l7600cn46f3i55sski1mjq8mfin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
